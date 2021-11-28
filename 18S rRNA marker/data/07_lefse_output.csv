@@ -1,0 +1,9 @@
+Genus,Mean,group,LDA,p_value
+Actinochloris,3.765409135,contaminated,3.743371096,0.040930821
+Agaricales,3.926889899,not_contaminated,3.79637185,0.025129712
+Haptorida,4.133759916,not_contaminated,3.901469948,0.036465556
+Colpodida,3.805346304,contaminated,3.904973608,0.039008342
+Actinochloris,3.765409135,contaminated,3.743371096,0.040930821
+Agaricales,3.926889899,not_contaminated,3.79637185,0.025129712
+Haptorida,4.133759916,not_contaminated,3.901469948,0.036465556
+Colpodida,3.805346304,contaminated,3.904973608,0.039008342
