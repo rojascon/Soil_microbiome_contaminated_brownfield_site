@@ -1,0 +1,16 @@
+Genus,Mean,group,LDA,p_value
+Setophaeosphaeria,3.417578022,not_contaminated,3.695781686,0.023807718
+Massarina,3.886550277,not_contaminated,3.805844481,0.006479873
+Trichoderma,3.8773456,not_contaminated,3.832690984,0.022935843
+Neopestalotiopsis,3.97601933,not_contaminated,3.832781895,0.006479873
+Podospora,3.846899006,not_contaminated,3.839081918,0.017056249
+Pestalotiopsis,4.145643644,not_contaminated,3.968820893,0.006479873
+Pyrenochaetopsis,4.172670944,not_contaminated,3.990115127,0.011532807
+Linnemannia,4.193945035,not_contaminated,3.994477268,0.022935843
+Clonostachys,4.226812154,not_contaminated,4.063544236,0.022935843
+Stachybotrys,4.107556262,contaminated,4.068466301,0.038529752
+Podila,4.190159147,not_contaminated,4.096661403,0.022935843
+Furcasterigmium,3.900094002,contaminated,4.226574892,0.035304652
+Dactylonectria,4.695505675,not_contaminated,4.438182207,0.022935843
+Monodictys,4.897044738,not_contaminated,4.537551745,0.022935843
+Alternaria,5.25995466,contaminated,4.805846109,0.045126949
