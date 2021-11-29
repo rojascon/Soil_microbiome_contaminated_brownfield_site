@@ -24,11 +24,6 @@ source(file="00_background.R"); #load necessary packages and specifications
 ################################################################################
 
 load("16S rRNA marker/data/01_brownfield_16S_metadata_formatted.Rdata");
-
-#download PICRUSt2 file from Google Drive (too big for GitHub) and deposit in
-# 16S rRNA marker/data
-# https://drive.google.com/file/d/1coLoZVnMS3TSDTYUcV_HW_LLDZ3GERl4/view?usp=sharing
-
 pie=read.delim("16S rRNA marker/data/00_PICRUSt2_output.txt", 
                sep="\t",stringsAsFactors=FALSE,quote="", header=T);
 
