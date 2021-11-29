@@ -1,0 +1,12 @@
+Genus,Mean,group,LDA,p_value
+Paenibacillus,3.265321532,contaminated,3.055609715,0.030010626
+Sulfurospirillum,2.396030565,not_contaminated,3.185736742,0.030936866
+Alteromonas,3.83082793,contaminated,3.375240706,0.039008342
+Dankookia,3.833248048,contaminated,3.475150965,0.003603793
+Microcystis,4.000000246,contaminated,3.509232455,0.01723515
+Thiobacter,4.287399709,not_contaminated,3.629589784,0.039008342
+Blastococcus,4.207487905,contaminated,3.671703947,0.022857903
+Iamia,4.30407363,contaminated,3.824905187,0.022857903
+Rhodospirillaceae,4.441959952,contaminated,3.878809216,0.030010626
+Mycobacteriaceae,4.277949003,contaminated,3.888734959,0.009504461
+Acidimicrobiaceae,4.234629313,contaminated,3.891258825,0.022757783
