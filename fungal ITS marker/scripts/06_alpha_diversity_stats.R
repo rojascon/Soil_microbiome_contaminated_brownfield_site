@@ -110,7 +110,7 @@ p1=ggplot(pred1, aes(x=x, y=predicted, ymin=0)) +
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high), alpha = .1)+
   theme_classic()+
   labs(y="Predicted Chao 1 Richness",
-       x="Cobalt Concentration (µg/kg)",
+       x="Cobalt Concentration (mg/kg)",
        title="fungal ITS marker")+
   theme(axis.title = element_text(size = 12, face="bold"), 
         axis.text = element_text(size = 11),
